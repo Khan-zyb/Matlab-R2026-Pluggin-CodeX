@@ -23,8 +23,8 @@ codex plugin add matlab-r2026a@matlab-tools
 ```
 
 After installation, start a new Codex task so the MCP tools and skill are loaded.
-
-After this publication branch is merged, users can add the GitHub marketplace without cloning first:
+ 
+Users can add the GitHub marketplace without cloning first:
 
 ```powershell
 codex plugin marketplace add Khan-zyb/Matlab-R2026-Pluggin-CodeX
