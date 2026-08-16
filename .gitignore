@@ -1,0 +1,12 @@
+# User data in this workspace; never include it in the plugin repository.
+BACKUP THE BEST ONE/
+
+# Python and test artifacts.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Operating-system metadata.
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+{
+  "name": "matlab-tools",
+  "interface": {
+    "displayName": "Matlab Tools"
+  },
+  "plugins": [
+    {
+      "name": "matlab-r2026a",
+      "source": {
+        "source": "local",
+        "path": "./plugins/matlab-r2026a"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Engineering"
+    }
+  ]
+}
