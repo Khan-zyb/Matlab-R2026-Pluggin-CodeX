@@ -4,6 +4,12 @@ Run a local MATLAB R2026a installation from Codex through five MCP tools for ins
 
 This is an independent community project. It is not affiliated with or endorsed by The MathWorks, Inc. MATLAB is a registered trademark of The MathWorks, Inc.
 
+## Demo
+
+![Codex running MATLAB R2026a](assets/matlab-r2026a-demo.gif)
+
+The animation uses output from a real local run against MATLAB R2026a Update 4.
+
 ## Requirements
 
 - Windows 10 or 11
