@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "matlab-r2026a": {
+      "cwd": ".",
+      "command": "python",
+      "args": [
+        "./scripts/matlab_mcp_server.py"
+      ]
+    }
+  }
+}

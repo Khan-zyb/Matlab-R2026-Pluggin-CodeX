@@ -1,0 +1,39 @@
+{
+  "name": "matlab-r2026a",
+  "version": "0.2.0",
+  "description": "Unofficial local MATLAB R2026a execution tools for Codex.",
+  "author": {
+    "name": "Ashab Khan",
+    "url": "https://github.com/Khan-zyb"
+  },
+  "homepage": "https://github.com/Khan-zyb/Matlab-R2026-Pluggin-CodeX",
+  "repository": "https://github.com/Khan-zyb/Matlab-R2026-Pluggin-CodeX",
+  "license": "MIT",
+  "keywords": [
+    "matlab",
+    "r2026a",
+    "numerical-computing",
+    "engineering",
+    "local-tools"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "MATLAB R2026a (Unofficial)",
+    "shortDescription": "Run local MATLAB R2026a code and scripts.",
+    "longDescription": "An unofficial, community-built plugin that connects Codex to a locally installed MATLAB R2026a runtime. Inspect the installation, list products, query help, and run code or script files in a selected working directory.",
+    "developerName": "Ashab Khan",
+    "websiteURL": "https://github.com/Khan-zyb/Matlab-R2026-Pluggin-CodeX",
+    "category": "Engineering",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Check my MATLAB R2026a installation.",
+      "Run this MATLAB script and explain the output.",
+      "Debug this MATLAB error in my project."
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}
